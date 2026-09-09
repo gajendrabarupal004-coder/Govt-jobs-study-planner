@@ -1,0 +1,913 @@
+{
+  "dataset_name": "Rajasthan Government Exam Syllabus Library",
+  "version": "2026-09",
+  "verification_policy": "Official conducting-body syllabus/advertisement is the primary source. Secondary sources are used only to cross-check transcription where an official PDF is not machine-readable.",
+  "exams": [
+    {
+      "id": "rssb_cet_graduation_2026",
+      "exam": "Rajasthan CET Graduation Level 2026",
+      "authority": "Rajasthan Staff Selection Board (RSSB)",
+      "category": "State Government",
+      "status": "verified_current_2026",
+      "pattern": {
+        "questions": 150,
+        "marks": 300,
+        "duration": "3 hours",
+        "negative_marking": "1/3 mark per wrong answer",
+        "mode": "Offline OMR"
+      },
+      "official_source": "https://rssb.rajasthan.gov.in/storage/advertisement_item/1782217139.pdf",
+      "official_syllabus_listing": "https://rssb.rajasthan.gov.in/",
+      "subjects": [
+        {
+          "name": "History of India & Rajasthan / National Movement",
+          "topics": [
+            "Important events in Indian history",
+            "19th and 20th century social and religious reform movements",
+            "Indian freedom movement and regional contributors",
+            "Rajasthan contribution to the Revolt of 1857",
+            "Tribal and peasant movements in Rajasthan",
+            "Political awakening and Praja Mandal movement",
+            "Post-independence nation building, national integration and reorganisation of states",
+            "Nehru-era institution building and development of science and technology",
+            "Integration of Rajasthan"
+          ]
+        },
+        {
+          "name": "History, Art, Culture, Literature, Tradition & Heritage of Rajasthan",
+          "topics": [
+            "Ancient civilizations and archaeological sites: Kalibangan, Ahar, Ganeshwar, Balathal, Bairath and others",
+            "Important historical events and major dynasties",
+            "Administrative and revenue systems of major rulers",
+            "Forts, monuments, architecture, paintings and handicrafts",
+            "Rajasthani literature and regional dialects",
+            "Fairs and festivals",
+            "Folk music and folk dances",
+            "Rajasthani culture, traditions and heritage",
+            "Religious movements, saints and folk deities",
+            "Important historical sites and personalities"
+          ]
+        },
+        {
+          "name": "Geography of India",
+          "topics": [
+            "Physical features: mountains, plateaus, deserts and plains",
+            "Climate and monsoon",
+            "Major rivers, dams, lakes and oceans",
+            "Wildlife and sanctuaries",
+            "Major crops",
+            "Major minerals",
+            "Conventional and non-conventional energy resources",
+            "Major industries and industrial regions",
+            "National highways, transport and trade",
+            "Population: growth, density, literacy and sex ratio",
+            "Disaster management and climate change"
+          ]
+        },
+        {
+          "name": "Geography of Rajasthan",
+          "topics": [
+            "Geological structure and physiographic divisions",
+            "Climate and climatic regions",
+            "Drainage, rivers, lakes, ponds, dams and water conservation",
+            "Natural vegetation",
+            "Wildlife and sanctuaries",
+            "Soils",
+            "Rabi and Kharif crops",
+            "Population distribution, growth, density, literacy, sex ratio and urbanisation",
+            "Major tribes",
+            "Metallic and non-metallic minerals",
+            "Renewable and non-renewable energy resources",
+            "Tourism",
+            "Transport: highways, rail and air"
+          ]
+        },
+        {
+          "name": "Indian Political System with special reference to Rajasthan",
+          "topics": [
+            "Constituent Assembly and role of Dr B. R. Ambedkar",
+            "Constitution, Preamble, Fundamental Rights, DPSP, federal structure and amendments",
+            "Emergency provisions and Public Interest Litigation",
+            "President, Prime Minister, Council of Ministers and Parliament",
+            "Supreme Court",
+            "Election Commission, CAG, Finance Commission, Lokpal, NHRC, NITI Aayog and information institutions",
+            "Rajasthan Governor, Chief Minister, Legislative Assembly and High Court",
+            "RPSC, district administration, State Human Rights Commission, Lokayukta",
+            "State Election Commission, State Finance Commission, State Information Commission",
+            "Local self-government and Panchayati Raj"
+          ]
+        },
+        {
+          "name": "Economy of India",
+          "topics": [
+            "Budget, banking, public finance, GST and national income",
+            "Growth and development",
+            "Fiscal and monetary policy",
+            "Subsidies and Public Distribution System",
+            "E-commerce",
+            "Agriculture, industry, services and trade",
+            "Green, White and Blue Revolutions",
+            "Planning and Five Year Plans",
+            "Economic problems, reforms and liberalisation"
+          ]
+        },
+        {
+          "name": "Economy of Rajasthan",
+          "topics": [
+            "Food and commercial crops",
+            "Irrigation and river valley projects",
+            "Wasteland and drought-prone area development",
+            "Industrial development and location",
+            "Agro-based, mineral-based, small, cottage and village industries",
+            "Rajasthani handicrafts and exports",
+            "Poverty and unemployment",
+            "Flagship schemes, social justice and welfare schemes",
+            "Cooperative movement and financial institutions",
+            "Panchayati Raj role in rural development",
+            "MGNREGA and VB-G RAM G"
+          ]
+        },
+        {
+          "name": "Science & Technology",
+          "topics": [
+            "Physical and chemical changes",
+            "Acids, bases and salts",
+            "Electric current, heat, work and energy",
+            "Diet, nutrition, blood groups and Rh factor",
+            "Infectious, non-infectious and zoonotic diseases",
+            "Environment, ecology and biodiversity",
+            "Conservation of natural resources and sustainable development",
+            "Agriculture, horticulture, forestry and animal husbandry with Rajasthan focus",
+            "ICT",
+            "Defence, space technology and satellites",
+            "Science and technology development with Rajasthan focus"
+          ]
+        },
+        {
+          "name": "Logical Reasoning & Mathematics",
+          "topics": [
+            "Blood relations",
+            "Number and alphabet series",
+            "Clock and calendar",
+            "Mental and analytical ability",
+            "Squares, square roots and cube roots",
+            "Factoring, quadratic equations and logarithms",
+            "LCM and HCF",
+            "Average, profit-loss and percentage",
+            "Simple and compound interest",
+            "Ratio and proportion",
+            "Time, speed and distance",
+            "Time and work",
+            "Angles, lines and rectilinear figures",
+            "Congruence of triangles",
+            "Area and volume",
+            "Trigonometric ratios and heights/distances",
+            "Mean, median and mode",
+            "Graphs, bar charts, pie charts and line graphs"
+          ]
+        },
+        {
+          "name": "Current Events & Civic Duty",
+          "topics": [
+            "State, national and international current events",
+            "Politics, economy, society, culture, technology, geography, ecology and sports",
+            "Famous personalities",
+            "State and national programmes and policies",
+            "Fundamental Duties and moral values",
+            "Rajasthan Public Examination (Measures for Prevention of Unfair Means in Recruitment) Act, 2022"
+          ]
+        },
+        {
+          "name": "Public Health",
+          "topics": [
+            "First aid",
+            "Cardiopulmonary resuscitation (CPR)",
+            "Drug abuse and prevention",
+            "Physical and mental fitness of youth",
+            "Health risks of social media addiction and prevention"
+          ]
+        },
+        {
+          "name": "Computer Knowledge",
+          "topics": [
+            "Computer characteristics and applications",
+            "Computer organisation, memory, file system and input/output devices",
+            "Operating system and application software",
+            "MS Word",
+            "MS Excel/Spreadsheet",
+            "MS PowerPoint",
+            "Internet and e-mail",
+            "Cyber security, e-services and AI"
+          ]
+        },
+        {
+          "name": "General Hindi",
+          "topics": [
+            "संज्ञा, सर्वनाम, विशेषण, अव्यय, क्रिया",
+            "सन्धि और सन्धि-विच्छेद",
+            "समास और समास-विग्रह",
+            "उपसर्ग और प्रत्यय",
+            "पर्यायवाची, विलोम, अनेकार्थक और शब्द-युग्म",
+            "शब्द-शुद्धि और वाक्य-शुद्धि",
+            "विराम चिह्न",
+            "पारिभाषिक शब्दावली",
+            "वाक्यांश के लिए एक सार्थक शब्द",
+            "मुहावरे और लोकोक्तियाँ",
+            "राजभाषा हिन्दी की संवैधानिक स्थिति",
+            "कार्यालयी पत्र, आदेश, परिपत्र, अधिसूचना, निविदा और प्रेस विज्ञप्ति"
+          ]
+        },
+        {
+          "name": "General English",
+          "topics": [
+            "Tenses and sequence of tenses",
+            "Active and passive voice",
+            "Direct and indirect narration",
+            "Articles and determiners",
+            "Prepositions",
+            "Hindi-English and English-Hindi translation of simple sentences",
+            "Official and technical terminology",
+            "Synonyms and antonyms",
+            "One-word substitution",
+            "Comprehension",
+            "Official, demi-official and informal letter writing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rssb_cet_senior_secondary_2026",
+      "exam": "Rajasthan CET Senior Secondary Level 2026",
+      "authority": "Rajasthan Staff Selection Board (RSSB)",
+      "category": "State Government",
+      "status": "verified_current_2026",
+      "pattern": {
+        "questions": 120,
+        "marks": 240,
+        "duration": "2 hours 30 minutes",
+        "negative_marking": "1/3 mark per wrong answer",
+        "mode": "Offline OMR"
+      },
+      "official_source": "https://rssb.rajasthan.gov.in/storage/advertisement_item/1782217139.pdf",
+      "subjects": [
+        {
+          "name": "History of Rajasthan",
+          "topics": [
+            "Major ancient civilizations and archaeological sites",
+            "Prominent rulers and achievements",
+            "Revolt of 1857",
+            "Peasant movements",
+            "Tribal movements",
+            "Praja Mandal movements",
+            "Integration of Rajasthan",
+            "Prominent historical personalities"
+          ]
+        },
+        {
+          "name": "Art & Culture of Rajasthan",
+          "topics": [
+            "Architecture and painting",
+            "Folk music, musical instruments, dance and theatre",
+            "Major religious sects and folk deities",
+            "Dresses, ornaments, fairs, festivals, customs and traditions",
+            "Language, dialects and literature",
+            "Prominent personalities in art and culture"
+          ]
+        },
+        {
+          "name": "Geography of India",
+          "topics": [
+            "Physical features: mountains, plateaus, deserts and plains",
+            "Major rivers, dams, lakes and oceans",
+            "Wildlife and sanctuaries",
+            "Climate and natural vegetation",
+            "Major resources and environmental/disaster themes"
+          ]
+        },
+        {
+          "name": "Geography of Rajasthan",
+          "topics": [
+            "Major physical features",
+            "Climate",
+            "Natural vegetation",
+            "Major soils",
+            "Rivers, dams and lakes",
+            "Mineral, forest and water resources",
+            "Livestock",
+            "Wildlife, sanctuaries and conservation",
+            "Population: distribution, growth, density, literacy and sex ratio",
+            "Major tribes",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Indian Political System with special reference to Rajasthan",
+          "topics": [
+            "Constitution, Preamble, Fundamental Rights and DPSP",
+            "President, Prime Minister, Council of Ministers and Parliament",
+            "Supreme Court and constitutional institutions",
+            "Election Commission",
+            "Rajasthan Governor, Chief Minister and Legislative Assembly",
+            "Rajasthan High Court and RPSC",
+            "State Election Commission and State Information Commission",
+            "Panchayati Raj and local self-government"
+          ]
+        },
+        {
+          "name": "Economy of Rajasthan",
+          "topics": [
+            "Agriculture",
+            "Animal husbandry",
+            "Industries and mineral resources",
+            "State economy and budget basics",
+            "Handicrafts",
+            "Welfare schemes and development institutions",
+            "Rural development",
+            "Employment schemes including MGNREGA and VB-G RAM G"
+          ]
+        },
+        {
+          "name": "Everyday Science",
+          "topics": [
+            "Physical and chemical changes",
+            "Metals and non-metals",
+            "Important compounds",
+            "Carbon compounds",
+            "Light",
+            "Genetics",
+            "Human body, blood groups and diseases",
+            "Environment and ecosystems",
+            "Biotechnology",
+            "Space science"
+          ]
+        },
+        {
+          "name": "Logical Reasoning & Mathematics",
+          "topics": [
+            "Blood relations",
+            "Number and alphabet series",
+            "Coding-decoding",
+            "Clock and calendar",
+            "Seating arrangement",
+            "Mental and analytical ability",
+            "LCM and HCF",
+            "Average",
+            "Profit and loss",
+            "Percentage",
+            "Simple and compound interest",
+            "Ratio and proportion",
+            "Time, speed and distance",
+            "Time and work",
+            "Area and volume",
+            "Data representation"
+          ]
+        },
+        {
+          "name": "Current Affairs",
+          "topics": [
+            "Major state and national events",
+            "Politics, economy, society, culture, technology, geography, ecology and sports",
+            "Famous personalities",
+            "Government programmes and policies",
+            "Fundamental Duties and moral values",
+            "Rajasthan Public Examination (Measures for Prevention of Unfair Means in Recruitment) Act, 2022"
+          ]
+        },
+        {
+          "name": "Public Health",
+          "topics": [
+            "First aid",
+            "CPR",
+            "Drug abuse and prevention",
+            "Physical and mental fitness of youth",
+            "Social-media addiction health risks and prevention"
+          ]
+        },
+        {
+          "name": "Computer Knowledge",
+          "topics": [
+            "Computer characteristics and applications",
+            "Memory, RAM, ROM and file system",
+            "Input and output devices",
+            "MS Word",
+            "MS Excel/Spreadsheet",
+            "MS PowerPoint"
+          ]
+        },
+        {
+          "name": "General Hindi",
+          "topics": [
+            "संज्ञा, सर्वनाम, विशेषण, अव्यय, क्रिया",
+            "सन्धि और सन्धि-विच्छेद",
+            "समास और समास-विग्रह",
+            "उपसर्ग और प्रत्यय",
+            "पर्यायवाची, विलोम, अनेकार्थक और शब्द-युग्म",
+            "शब्द और वाक्य शुद्धि",
+            "वाक्यांश के लिए एक सार्थक शब्द",
+            "मुहावरे और लोकोक्तियाँ",
+            "पारिभाषिक/तकनीकी शब्द",
+            "कार्यालयी पत्र, आदेश, परिपत्र, अधिसूचना, निविदा और प्रेस विज्ञप्ति"
+          ]
+        },
+        {
+          "name": "General English",
+          "topics": [
+            "Tenses and sequence of tenses",
+            "Active and passive voice",
+            "Direct and indirect narration",
+            "Articles and determiners",
+            "Prepositions",
+            "Simple Hindi-English and English-Hindi translation",
+            "Official and technical terminology",
+            "Synonyms and antonyms",
+            "One-word substitution",
+            "Comprehension",
+            "Official, demi-official and informal letters"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rssb_patwar_2026",
+      "exam": "Rajasthan Patwar 2026",
+      "authority": "Rajasthan Staff Selection Board (RSSB)",
+      "category": "State Government",
+      "status": "official_2026_listing_verified_detailed_scheme_cross_checked",
+      "pattern": {
+        "questions": 160,
+        "marks": 200,
+        "duration": "3 hours",
+        "negative_marking": "1/3 mark per wrong answer",
+        "mode": "Objective MCQ"
+      },
+      "official_source": "https://rssb.rajasthan.gov.in/storage/syllabus_item/1737352242.pdf",
+      "subjects": [
+        {
+          "name": "Language Knowledge: General Hindi & English",
+          "topics": [
+            "Hindi: Sandhi, Sandhi-viched, Samas, prefixes/suffixes, synonyms, antonyms, word-pair meaning, one-word substitution, word correction, sentence correction, idioms, proverbs, technical terminology",
+            "English: senior-secondary-level grammar and paragraph-based multiple-choice questions"
+          ]
+        },
+        {
+          "name": "Mathematics",
+          "topics": [
+            "Decimals and fractions",
+            "Percentage",
+            "Ratio and proportion",
+            "Average",
+            "Interest",
+            "Profit, loss and discount",
+            "Perimeter",
+            "Time and distance",
+            "Ratio and time",
+            "Partnership",
+            "Installments",
+            "Compound interest",
+            "Increase and decrease",
+            "Polynomial factorisation",
+            "HCF and LCM",
+            "Linear equations in two variables",
+            "Measures of central tendency",
+            "Mean deviation",
+            "Quadrilaterals and circles",
+            "Arc and angle",
+            "Geometrical constructions"
+          ]
+        },
+        {
+          "name": "General Knowledge",
+          "topics": [
+            "Current national, international and state events",
+            "Major organisations, institutions and personalities connected with current events",
+            "Everyday/general science with practical and analytical orientation",
+            "Electronics, telecommunications, satellites and related developments"
+          ]
+        },
+        {
+          "name": "Geography & Natural Resources",
+          "topics": [
+            "World geographic regions, important places, rivers, mountains and continents",
+            "Indian environment, wildlife and ecology",
+            "Rajasthan physical geography and weather",
+            "Natural vegetation and soils",
+            "Rajasthan geographic regions",
+            "Human resources and population problems",
+            "Unemployment, poverty, famine and drought",
+            "Desertification",
+            "Mineral, forest, land and water resources",
+            "Livestock and wildlife conservation",
+            "Conventional and non-conventional energy"
+          ]
+        },
+        {
+          "name": "Agriculture & Economic Resources of Rajasthan",
+          "topics": [
+            "Food and commercial crops",
+            "Agriculture-based industries",
+            "Major irrigation and river-valley projects",
+            "Wasteland and drought-prone area development",
+            "Indira Gandhi Canal Project",
+            "Industrial development and location",
+            "Raw-material, mineral-based, small and village industries",
+            "Export goods and Rajasthani handicrafts",
+            "Tribal economy",
+            "Economic plans and development institutions",
+            "Cooperative movement",
+            "Small enterprises and financial institutions",
+            "Role of Panchayati Raj institutions under the 73rd Constitutional Amendment"
+          ]
+        },
+        {
+          "name": "History & Culture of Rajasthan",
+          "topics": [
+            "Medieval background",
+            "Social and economic life and organisation",
+            "Freedom movement and political awakening",
+            "Political integration/unity",
+            "Dialects and literature",
+            "Music, dance and drama",
+            "Religious beliefs and folk traditions",
+            "Saints, poets, heroic figures, folk gods and goddesses",
+            "Handicrafts",
+            "Fairs and festivals",
+            "Customs, dress and ornaments, especially tribal context"
+          ]
+        },
+        {
+          "name": "Basic Computer",
+          "topics": [
+            "Computer system overview",
+            "Hardware devices",
+            "Software, operating systems and application software",
+            "MS Word",
+            "MS Excel",
+            "MS PowerPoint",
+            "Internet",
+            "E-mail"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rssb_fourth_class_2026",
+      "exam": "Rajasthan Fourth Class Employee 2026",
+      "authority": "Rajasthan Staff Selection Board (RSSB)",
+      "category": "State Government",
+      "status": "verified_current_2026",
+      "pattern": {
+        "questions": 120,
+        "marks": 200,
+        "duration": "2 hours",
+        "negative_marking": "1/3 mark per wrong answer",
+        "standard": "Secondary level"
+      },
+      "official_source": "https://rssb.rajasthan.gov.in/storage/syllabus_item/1744007988.pdf",
+      "subjects": [
+        {
+          "name": "General Hindi",
+          "weightage_questions": 20,
+          "topics": [
+            "संज्ञा, सर्वनाम, क्रिया और विशेषण",
+            "तत्सम-तद्भव, देशज और विदेशी शब्द",
+            "सन्धि और सन्धि-विच्छेद",
+            "उपसर्ग और प्रत्यय",
+            "पर्यायवाची और विलोम",
+            "वाक्यांश के लिए एक शब्द",
+            "शब्द-शुद्धि",
+            "वाक्य-शुद्धि",
+            "काल के प्रकार",
+            "मुहावरे और लोकोक्तियाँ",
+            "अंग्रेजी के पारिभाषिक शब्दों के हिन्दी समानार्थक",
+            "कार्यालयी पत्र और कार्यालयी दस्तावेज"
+          ]
+        },
+        {
+          "name": "General English",
+          "weightage_questions": 15,
+          "topics": [
+            "Tenses and sequence of tenses",
+            "Active and passive voice",
+            "Direct and indirect narration",
+            "Sentence transformation",
+            "Correction of sentences and wrongly used words",
+            "Articles and determiners",
+            "Prepositions",
+            "Hindi-English and English-Hindi simple sentence translation",
+            "Official and technical terminology"
+          ]
+        },
+        {
+          "name": "Rajasthan Geography",
+          "weightage_questions": 20,
+          "topics": [
+            "Location, extent, physiography and physical divisions",
+            "Soils",
+            "Natural vegetation and forest conservation",
+            "Climate",
+            "Water resources",
+            "Drainage and lakes",
+            "Major irrigation projects",
+            "Population size, growth, distribution, density, sex ratio and literacy",
+            "Transport and state roads",
+            "Disaster management and climate change"
+          ]
+        },
+        {
+          "name": "Rajasthan History, Art & Culture",
+          "weightage_questions": 20,
+          "topics": [
+            "Historical events",
+            "Freedom movement",
+            "Integration of Rajasthan",
+            "Important personalities",
+            "Language and literature",
+            "Culture and social life",
+            "Costumes and ornaments",
+            "Musical instruments",
+            "Folk deities and folk literature",
+            "Dialects",
+            "Fairs and festivals",
+            "Folk arts, architecture, folk music, dance and theatre",
+            "Tourist places and monuments"
+          ]
+        },
+        {
+          "name": "Indian Constitution & Rajasthan Political/Administrative System",
+          "weightage_questions": 10,
+          "topics": [
+            "Introduction and basic features of the Constitution",
+            "Rajasthan state government and politics",
+            "Governor, Chief Minister and Council of Ministers",
+            "Legislative Assembly and judiciary",
+            "State administrative structure",
+            "Chief Secretary and district administration",
+            "General and police administration",
+            "District judicial structure",
+            "Right to Information Act"
+          ]
+        },
+        {
+          "name": "General Science",
+          "weightage_questions": 5,
+          "topics": [
+            "Physical and chemical changes",
+            "Metals, non-metals and important compounds",
+            "Reflection of light and laws",
+            "Basic genetics terminology",
+            "Human body structure and organ systems",
+            "Major human diseases, causes and diagnosis",
+            "Waste management"
+          ]
+        },
+        {
+          "name": "Current Affairs",
+          "weightage_questions": 10,
+          "topics": [
+            "Sports",
+            "Politics",
+            "Economy",
+            "Social issues",
+            "Geography",
+            "Culture",
+            "Ecology",
+            "Technology",
+            "Rajasthan and national issues",
+            "Famous personalities",
+            "Rajasthan and national programmes and policies"
+          ]
+        },
+        {
+          "name": "Computer",
+          "weightage_questions": 5,
+          "topics": [
+            "Computer system overview",
+            "Hardware devices",
+            "Software and operating systems",
+            "Application software",
+            "MS Word",
+            "MS Excel",
+            "MS PowerPoint",
+            "Internet",
+            "E-mail"
+          ]
+        },
+        {
+          "name": "General Mathematics",
+          "weightage_questions": 15,
+          "topics": [
+            "HCF and LCM",
+            "Average",
+            "Profit and loss",
+            "Percentage",
+            "Simple interest",
+            "Compound interest",
+            "Ratio and proportion",
+            "Partnership",
+            "Time and work",
+            "Time",
+            "Speed and distance",
+            "Graphical representation of data"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rpsc_ras_2026",
+      "exam": "Rajasthan State and Subordinate Services Combined Competitive Examination (RAS) 2026 syllabus",
+      "authority": "Rajasthan Public Service Commission (RPSC)",
+      "category": "State Civil Services",
+      "status": "verified_current_2026",
+      "official_prelims_source": "https://rpsc.rajasthan.gov.in/Static/Syllabus/7D943B35-2D9E-4E50-BC3E-3726268AE18B.pdf",
+      "official_mains_source": "https://rpsc.rajasthan.gov.in/Static/Syllabus/238A2E0E-B0D0-49C2-8E5E-D299A915037F.pdf",
+      "prelims_pattern": {
+        "questions": 150,
+        "marks": 200,
+        "duration": "3 hours",
+        "negative_marking": "1/3 mark per wrong answer",
+        "level": "Bachelor degree"
+      },
+      "mains_pattern": {
+        "papers": 4,
+        "marks_each": 200,
+        "duration_each": "3 hours",
+        "total_marks": 800,
+        "type": "Descriptive/analytical"
+      },
+      "prelims_subjects": [
+        {
+          "name": "History, Art, Culture, Literature, Tradition & Heritage of Rajasthan",
+          "topics": [
+            "Prehistoric sites and ancient Rajasthan society and culture",
+            "Sources of Rajasthan history",
+            "Major dynasties, rulers, administration and revenue",
+            "18th-20th century political/social conditions",
+            "Peasant and tribal movements",
+            "Praja Mandal movements and integration",
+            "Architecture, forts, palaces and monuments",
+            "Painting, handicrafts and performing arts",
+            "Folk dance, drama, music and instruments",
+            "Rajasthani language, dialects and literature",
+            "Religious communities, saints, sects and folk deities",
+            "Fairs, festivals, customs, attire and ornaments",
+            "Leading personalities"
+          ]
+        },
+        {
+          "name": "Indian History",
+          "topics": [
+            "Indus and Vedic culture",
+            "Ajivakas, Buddhism and Jainism",
+            "Maurya, Kushan, Satavahan, Gupta, Chalukya, Pallava and Chola achievements",
+            "Ancient Indian art, architecture and science",
+            "Indian knowledge and value systems",
+            "Delhi Sultanate and Vijayanagar",
+            "Mughal administration and policies",
+            "Marathas",
+            "Medieval art, architecture, literature and music",
+            "Bhakti and Sufi movements",
+            "British imperialism and resistance",
+            "1857 revolt",
+            "Nationalism and socio-religious reform",
+            "Freedom struggle and national movement",
+            "Post-independence nation building to 2000"
+          ]
+        },
+        {
+          "name": "Geography of World, India & Rajasthan",
+          "topics": [
+            "World physical geography",
+            "Major rivers and lakes",
+            "Natural vegetation and agriculture",
+            "Industrial regions and transport",
+            "Desertification, deforestation, climate change, global warming and ozone depletion",
+            "Indian physiography, climate, rivers, irrigation, crops, minerals and industries",
+            "Rajasthan location, physiography, rivers, lakes, climate, vegetation, biodiversity, soils, agriculture, livestock, irrigation, population, urbanisation, tribes, minerals and tourism"
+          ]
+        },
+        {
+          "name": "Indian Constitution, Political System & Governance",
+          "topics": [
+            "Constitution making, Preamble, citizenship, Fundamental Rights, DPSP and Fundamental Duties",
+            "Union executive, legislature and judiciary",
+            "Union-State relations and emergency provisions",
+            "Urban and rural local government",
+            "Election Commission, UPSC, NHRC, NCW, NCPCR and NITI Aayog",
+            "Public policy, citizen charter, social audit and grievance redressal",
+            "Lokpal, CVC and CIC",
+            "Rajasthan Governor, Chief Minister, legislature and judiciary",
+            "State secretariat, directorates, divisional and district administration",
+            "RPSC, State Election Commission, Information Commission, Women Commission, Board of Revenue and Lokayukta",
+            "Panchayati Raj and municipalities"
+          ]
+        },
+        {
+          "name": "Economy",
+          "topics": [
+            "Growth and development",
+            "HDI and development measures",
+            "Monetary and fiscal policy",
+            "Union budget and resource mobilisation",
+            "Fiscal federalism and Finance Commission",
+            "Agriculture, reforms and government initiatives",
+            "Industry and economic reforms",
+            "Services, energy, transport and communication",
+            "Skill development and employment",
+            "Social justice and empowerment",
+            "Rajasthan economy, budget, agriculture, industry, infrastructure, rural development, health, education and welfare schemes"
+          ]
+        },
+        {
+          "name": "Science & Technology",
+          "topics": [
+            "Everyday science",
+            "Computers and ICT",
+            "Defence and space technology",
+            "Inheritance, genetic engineering, biotechnology and nanotechnology",
+            "Human health, nutrition and diseases",
+            "Environment, ecology and biodiversity",
+            "Agriculture, horticulture, forestry and animal husbandry with Rajasthan focus",
+            "Science and technology policies and recent advances"
+          ]
+        },
+        {
+          "name": "Reasoning, Mental Ability & Basic Numeracy",
+          "topics": [
+            "Statement and assumptions",
+            "Statement and argument",
+            "Statement and conclusion",
+            "Courses of action",
+            "Analytical and critical reasoning",
+            "Number and letter sequences",
+            "Coding-decoding",
+            "Relations",
+            "Direction sense",
+            "Logical Venn diagrams",
+            "Ranking and seating arrangement",
+            "Shapes and subsections",
+            "Ratio, proportion, partnership",
+            "Profit and loss",
+            "Percentage",
+            "Simple and compound interest",
+            "Area and perimeter",
+            "Data analysis",
+            "Mean, median and mode",
+            "Permutation and combination",
+            "Simple probability"
+          ]
+        },
+        {
+          "name": "Current Affairs & Issues with special reference to Rajasthan",
+          "topics": [
+            "Important personalities, places and contemporary issues",
+            "New schemes, programmes and initiatives",
+            "Major economic and political developments",
+            "Sports and games",
+            "Awards and publications",
+            "Rajasthan Public Examination (Measures for Prevention of Unfair Means in Recruitment) Act, 2022"
+          ]
+        }
+      ],
+      "mains_papers": [
+        {
+          "paper": "I",
+          "name": "General Studies-I",
+          "units": [
+            "History: Rajasthan, India and Modern World",
+            "Indian Economy",
+            "World Economy",
+            "Economy of Rajasthan",
+            "Sociology, Management, Accounting & Auditing"
+          ]
+        },
+        {
+          "paper": "II",
+          "name": "General Studies-II",
+          "units": [
+            "Administrative Ethics",
+            "General Science & Technology",
+            "Earth Science: World, India and Rajasthan"
+          ]
+        },
+        {
+          "paper": "III",
+          "name": "General Studies-III",
+          "units": [
+            "Indian Polity, Governance, India & International Affairs and Current Affairs",
+            "Public Administration",
+            "Contemporary issues and governance themes"
+          ]
+        },
+        {
+          "paper": "IV",
+          "name": "General Hindi & General English",
+          "units": [
+            "General Hindi",
+            "General English",
+            "Senior-secondary standard language skills"
+          ]
+        }
+      ]
+    }
+  ]
+}
