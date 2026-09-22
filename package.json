@@ -1,0 +1,32 @@
+{
+  "name": "govt-jobs-study-planner",
+  "version": "1.0.0",
+  "description": "AI daily study planner for Indian government job exams",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/src/server.js",
+    "url": "git+https://github.com/gajendrabarupal004-coder/Govt-jobs-study-planner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gajendrabarupal004-coder/Govt-jobs-study-planner/issues"
+  },
+  "homepage": "https://github.com/gajendrabarupal004-coder/Govt-jobs-study-planner#readme",
+  "dependencies": {
+    "@modelcontextprotocol/ext-apps": "^1.7.5",
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "express": "^5.2.1",
+
+
+
+
+  }
+
+
+
+  
+  
+}
